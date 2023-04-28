@@ -1,4 +1,4 @@
 # GOOGLE
 Interfaz de Google
-
-![](https://raw.githubusercontent.com/FabianQR/Assets/main/photo_2021-10-25_10-36-07.jpg)
+Vista previa:
+![](https://raw.githubusercontent.com/FabianQR/Assets/main/google.png)
